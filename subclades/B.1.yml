@@ -3,10 +3,10 @@ unaliased_name: A.2.2.3.1
 parent: B
 representatives: []
 defining_mutations:
-- locus: nuc
-  position: 674
-  state: A
 - locus: NA
-  position: 61
+  position: 62
   state: M
+- locus: nuc
+  position: 675
+  state: A
 clade: none

@@ -1,0 +1,15 @@
+name: A.2.2.1
+unaliased_name: A.2.2.1
+parent: A.2.2
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 343
+  state: K
+- locus: NA
+  position: 468
+  state: T
+- locus: nuc
+  position: 401
+  state: A
+clade: none

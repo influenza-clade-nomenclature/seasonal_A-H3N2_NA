@@ -1,0 +1,18 @@
+name: B.4
+unaliased_name: A.2.2.3.4
+parent: B
+representatives: []
+defining_mutations:
+- locus: nuc
+  position: 1010
+  state: C
+- locus: nuc
+  position: 674
+  state: A
+- locus: NA
+  position: 468
+  state: T
+- locus: NA
+  position: 328
+  state: S
+clade: none

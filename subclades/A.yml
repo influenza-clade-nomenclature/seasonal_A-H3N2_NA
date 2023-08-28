@@ -1,0 +1,12 @@
+name: A
+unaliased_name: A
+parent: none
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 246
+  state: S
+- locus: NA
+  position: 220
+  state: E
+clade: none

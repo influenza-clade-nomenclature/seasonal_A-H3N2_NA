@@ -1,0 +1,45 @@
+# Clade and subclade nomenclature for the NA segment of seasonal A/H3N2 influenza viruses
+
+This repository defines subclades of the neuradminidase segment of seasonal A/H3N2 influenza viruses.
+These designations are called subclades in analogy to the HA segment, even though no corresponding clade nomenclature exists for NA.
+These subclades don't necessarily correspond to groups of viruses with distinct phenotypes but are meant to facilitate discussion of viral genetic diversity and to capture the frequency dynamics of co-circulating viral variants that often don't have distinct properties.
+
+
+## Designations
+
+Each subclade is defined by a machine readable `yaml` file in the subdirectory `subclades`.
+The yaml-files have the following structure:
+```
+name: B.1
+unaliased_name: A.2.2.3.1
+parent: B
+representatives: []
+defining_mutations:
+- locus: nuc
+  position: 674
+  state: A
+- locus: NA
+  position: 61
+  state: M
+clade: none
+
+```
+The field `clade` is set to `none` for all `NA` clades, but kept in case such a nomenclature is added.
+
+The defining mutations are relative using nucleotide and HA coordinates defined in
+```
+##gff-version 3
+CY114383        feature cds    4       1413    .       +       .       name="NA"
+```
+Note that these defining mutations are not exhaustive. They represent a genotypic constellation sufficient to distinguish the clade from its parent.
+
+## [Subclade summary](.auto-generated/subclades.md)
+
+## Subclade short names (aliases)
+The subclade names are designed with a systematic way to shorten their names inspired by the pango-lineage system for SARS-CoV-2.
+The initial part of the hierarchical names can be collapsed into a single letter (and possibly eventually double letters).
+These aliases are defined in [config/aliases.json](config/aliases.json).
+
+
+## Configuration
+Parameters and mutation weights for the automated subclade suggestion algorithm can be found in the directory `config`.

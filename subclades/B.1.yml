@@ -1,0 +1,12 @@
+name: B.1
+unaliased_name: A.2.2.3.1
+parent: B
+representatives: []
+defining_mutations:
+- locus: nuc
+  position: 674
+  state: A
+- locus: NA
+  position: 61
+  state: M
+clade: none

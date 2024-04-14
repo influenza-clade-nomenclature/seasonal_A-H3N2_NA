@@ -81,6 +81,6 @@
 
 ## B.4.3
  * parent: [B.4](#B4)
- * defining mutations or substitutions: NA:331G, nuc:1228G
+ * defining mutations or substitutions: NA:331G, nuc:1128G
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.4.3)
 

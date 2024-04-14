@@ -52,3 +52,12 @@ B.4	NA	329	S
 B.4	NA	469	T
 B.4	nuc	675	A
 B.4	nuc	1011	C
+B.4.1	clade	B.4	
+B.4.1	NA	308	R
+B.4.1	nuc	60	G
+B.4.2	clade	B.4	
+B.4.2	NA	400	K
+B.4.2	nuc	60	G
+B.4.3	clade	B.4	
+B.4.3	NA	331	G
+B.4.3	nuc	1228	G

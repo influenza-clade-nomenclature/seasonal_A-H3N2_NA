@@ -1,0 +1,18 @@
+name: B.4.2.1
+unaliased_name: A.2.2.3.4.2.1
+parent: B.4.2
+representatives:
+  - isolate: A/Delaware/70/2025
+    source: gisaid
+    accession: EPI4430374
+defining_mutations:
+- locus: NA
+  position: 181
+  state: A
+- locus: NA
+  position: 386
+  state: S
+- locus: nuc
+  position: 544
+  state: G
+clade: none

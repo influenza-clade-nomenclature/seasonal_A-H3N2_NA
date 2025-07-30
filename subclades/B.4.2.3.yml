@@ -1,0 +1,18 @@
+name: B.4.2.3
+unaliased_name: A.2.2.3.4.2.3
+parent: B.4.2
+representatives:
+  - isolate: A/Santa Catarina/332/2025
+    source: gisaid
+    accession: EPI4120935
+defining_mutations:
+- locus: NA
+  position: 24
+  state: L
+- locus: NA
+  position: 262
+  state: V
+- locus: NA
+  position: 386
+  state: S
+clade: none

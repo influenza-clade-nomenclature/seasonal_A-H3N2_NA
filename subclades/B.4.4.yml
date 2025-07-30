@@ -1,0 +1,21 @@
+name: B.4.4
+unaliased_name: A.2.2.3.4.4
+parent: B.4
+representatives:
+  - isolate: A/Mauritius/1186304/2024
+    source: gisaid
+    accession: EPI3836725
+defining_mutations:
+- locus: NA
+  position: 86
+  state: T
+- locus: nuc
+  position: 260
+  state: C
+- locus: NA
+  position: 54
+  state: K
+- locus: NA
+  position: 140
+  state: I
+clade: none

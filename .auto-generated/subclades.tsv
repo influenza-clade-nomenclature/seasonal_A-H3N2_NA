@@ -58,6 +58,23 @@ B.4.1	nuc	60	G
 B.4.2	clade	B.4	
 B.4.2	NA	400	K
 B.4.2	nuc	60	G
+B.4.2.1	clade	B.4.2	
+B.4.2.1	NA	181	A
+B.4.2.1	NA	386	S
+B.4.2.1	nuc	544	G
+B.4.2.2	clade	B.4.2	
+B.4.2.2	NA	358	D
+B.4.2.2	NA	468	R
+B.4.2.2	NA	346	G
+B.4.2.3	clade	B.4.2	
+B.4.2.3	NA	24	L
+B.4.2.3	NA	262	V
+B.4.2.3	NA	386	S
 B.4.3	clade	B.4	
 B.4.3	NA	331	G
 B.4.3	nuc	1128	G
+B.4.4	clade	B.4	
+B.4.4	NA	86	T
+B.4.4	nuc	260	C
+B.4.4	NA	54	K
+B.4.4	NA	140	I

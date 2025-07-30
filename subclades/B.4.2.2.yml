@@ -1,0 +1,18 @@
+name: B.4.2.2
+unaliased_name: A.2.2.3.4.2.2
+parent: B.4.2
+representatives:
+  - isolate: A/Nepal/S870/2025
+    source: gisaid
+    accession: EPI4448361
+defining_mutations:
+- locus: NA
+  position: 358
+  state: D
+- locus: NA
+  position: 468
+  state: R
+- locus: NA
+  position: 346
+  state: G
+clade: none

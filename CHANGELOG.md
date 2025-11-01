@@ -1,3 +1,6 @@
+# 2025-11-01
+- add aliases to ymls
+
 # 2025-07-30: Addition of subclades
 
 - add subclade [B.4.4](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_NA/blob/6519c11f846213aa8668976db4e6adb482ade82b/subclades/B.4.4.yml)

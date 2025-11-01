@@ -55,7 +55,7 @@ python ../helper-scripts/construct_tsv.py --input-dir subclades --output-tsv .au
 python ../helper-scripts/construct_tsv.py --input-dir subclades subclade-proposals --output-tsv .auto-generated/subclade-proposals.tsv
 # To add the result to the repo, do:
 
-git add .auto-generated/subclades.tsv .auto-generated/subclade-proposals.tsv .auto-generated/subclades.md
+git add .auto-generated/subclades.tsv .auto-generated/subclade-proposals.tsv .auto-generated/subclades.md .auto-generated/subclade-summary.tsv
 git commit -m "update auto-generated files"
 ```
 

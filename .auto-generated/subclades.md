@@ -35,6 +35,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.2.2.2)
 
 ## B
+ * alias of: A.2.2.3
  * parent: [A.2.2](#A22)
  * defining mutations or substitutions: NA:315R, NA:463N, NA:465S
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B)
@@ -94,7 +95,7 @@
 ## B.4.2.3
  * parent: [B.4.2](#B42)
  * defining mutations or substitutions: NA:24L, NA:262V, NA:386S
- * representative sequence: A/Santa Catarina/332/2025 (EPI4120935) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Santa Catarina/332/2025)
+ * representative sequence: A/Santa Catarina/332/2025 (EPI4120935) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Santa%20Catarina/332/2025)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.4.2.3)
 
 ## B.4.3

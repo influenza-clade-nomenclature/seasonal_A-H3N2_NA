@@ -4,6 +4,12 @@ This repository defines subclades of the neuradminidase segment of seasonal A/H3
 These designations are called subclades in analogy to the HA segment, even though no corresponding clade nomenclature exists for NA.
 These subclades don't necessarily correspond to groups of viruses with distinct phenotypes but are meant to facilitate discussion of viral genetic diversity and to capture the frequency dynamics of co-circulating viral variants that often don't have distinct properties.
 
+## Citation
+The nomenclature system is described in the following paper
+
+[**Nomenclature for Tracking of Genetic Variation of Seasonal Influenza Viruses**](https://dx.doi.org/10.1111/irv.70230)
+
+_Neher et al. Influenza and Other Respiratory Viruses, vol 20(2), 2026_
 
 ## Designations
 

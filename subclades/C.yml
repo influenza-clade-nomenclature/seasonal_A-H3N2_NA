@@ -1,6 +1,7 @@
 name: C
 unaliased_name: A.2.2.3.4.2.2
 parent: B.4.2
+alias_of: B.4.2.2
 representatives:
   - isolate: A/Nepal/S870/2025
     source: gisaid

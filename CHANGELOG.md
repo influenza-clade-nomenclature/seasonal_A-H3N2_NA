@@ -1,3 +1,9 @@
+# 2026-11-17
+- Alias B.4.2.2 as C
+- Define subclades
+  * [C.1](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_NA/blob/main/subclades/C.1.yml)
+  * [C.2](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_NA/blob/main/subclades/C.2.yml)
+
 # 2025-11-01
 - add aliases to ymls
 

@@ -1,0 +1,21 @@
+name: C.2
+unaliased_name: A.2.2.3.4.2.2.2
+parent: C
+representatives:
+  - isolate: A/Ghana/5097/2026
+    source: gisaid
+    accession: EPI5594421
+  - isolate: A/Virginia/GKISBBBK15769/2026
+    source: gisaid
+    accession: EPI5586313
+  - isolate: A/Georgia/69/2026
+    source: gisaid
+    accession: EPI5595350
+defining_mutations:
+- locus: NA
+  position: 431
+  state: E
+- locus: NA
+  position: 387
+  state: G
+clade: none

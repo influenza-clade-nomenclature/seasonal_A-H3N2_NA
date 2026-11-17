@@ -86,12 +86,6 @@
  * representative sequence: A/Delaware/70/2025 (EPI4430374) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Delaware/70/2025)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.4.2.1)
 
-## B.4.2.2
- * parent: [B.4.2](#B42)
- * defining mutations or substitutions: NA:358D, NA:468R, NA:346G
- * representative sequence: A/Nepal/S870/2025 (EPI4448361) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Nepal/S870/2025)
- * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.4.2.2)
-
 ## B.4.2.3
  * parent: [B.4.2](#B42)
  * defining mutations or substitutions: NA:24L, NA:262V, NA:386S
@@ -108,4 +102,28 @@
  * defining mutations or substitutions: NA:86T, nuc:260C, NA:54K, NA:140I
  * representative sequence: A/Mauritius/1186304/2024 (EPI3836725) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Mauritius/1186304/2024)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.4.4)
+
+## C
+ * parent: [B.4.2](#B42)
+ * defining mutations or substitutions: NA:358D, NA:468R, NA:346G
+ * representative sequence: A/Nepal/S870/2025 (EPI4448361) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Nepal/S870/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:C)
+
+## C.1
+ * parent: [C](#C)
+ * defining mutations or substitutions: NA:199T, NA:82T, NA:387T
+ * representative sequences:
+   - A/TOKYO/EIS15-267/2026 (EPI5657964) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/TOKYO/EIS15-267/2026)
+   - A/RhodeIsland/47/2026 (EPI5695272) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/RhodeIsland/47/2026)
+   - A/Victoria/642/2026 (EPI5721786) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Victoria/642/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1)
+
+## C.2
+ * parent: [C](#C)
+ * defining mutations or substitutions: NA:431E, NA:387G
+ * representative sequences:
+   - A/Ghana/5097/2026 (EPI5594421) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Ghana/5097/2026)
+   - A/Virginia/GKISBBBK15769/2026 (EPI5586313) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Virginia/GKISBBBK15769/2026)
+   - A/Georgia/69/2026 (EPI5595350) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?c=subclade&s=A/Georgia/69/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.2)
 

@@ -1,0 +1,24 @@
+name: C.1
+unaliased_name: A.2.2.3.4.2.2.1
+parent: C
+representatives:
+  - isolate: A/TOKYO/EIS15-267/2026
+    source: gisaid
+    accession: EPI5657964
+  - isolate: A/RhodeIsland/47/2026
+    source: gisaid
+    accession: EPI5695272
+  - isolate: A/Victoria/642/2026
+    source: gisaid
+    accession: EPI5721786
+defining_mutations:
+- locus: NA
+  position: 199
+  state: T
+- locus: NA
+  position: 82
+  state: T
+- locus: NA
+  position: 387
+  state: T
+clade: none

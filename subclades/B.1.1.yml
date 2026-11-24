@@ -13,3 +13,13 @@ defining_mutations:
   position: 639
   state: T
 clade: none
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@bd0a8467:nextclade/config/h3n2/na/EPI1857215/founder_sequences.fasta, realigned to the reference of this repository"
+  mutations:
+  - {position: 220, state: 'G'}
+  - {position: 351, state: 'T'}
+  - {position: 411, state: 'A'}
+  - {position: 504, state: 'T'}
+  - {position: 639, state: 'T'}
+  - {position: 664, state: 'A'}
